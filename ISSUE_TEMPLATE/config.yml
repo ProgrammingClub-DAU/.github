@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Club Website & Info
+    url: "<Website URL>"
+    about: Visit the official Programming Club, DAU website for general information and updates.
+  - name: Questions & Community Discussions
+    url: https://github.com/orgs/ProgrammingClub-DAU/discussions
+    about: For general questions, ideas, support, or informal chats, please visit our GitHub Discussions page.
+  - name: Email Club Maintainers
+    url: mailto:programming-club@dau.ac.in
+    about: Contact the Dhirubhai Ambani University Programming Club leadership team directly.
